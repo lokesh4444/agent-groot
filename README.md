@@ -44,5 +44,19 @@ Our chatbot revolutionizes the digital grocery shopping experience by adapting t
 
 In summary, this intelligent chatbot not only addresses the existing challenges in online grocery shopping but also sets a new standard for customer interaction and service in the digital retail space.
 
-## Architecture
+
+
+
+<div align="center">
+
+# 🧠 Semantic Kernel Multi-Agent Architecture
 ![Image](https://github.com/user-attachments/assets/d94f9704-0c63-41c2-9fb8-5649227a40bb)
+
+</div>
+
+## Overview 📊
+
+This architecture represents a Semantic Kernel Multi-Agent system, integrating various components and services to enhance user interaction and processing capabilities. It leverages advanced technologies to create a robust, adaptive system for superior user experiences.
+It has been designed to harness the power of advanced AI services and development tools, ensuring seamless interactions across multiple channels. With provisions for human oversight and comprehensive monitoring, it offers a responsive, resilient, and adaptable system that meets evolving user needs and technological advancements.
+
+
