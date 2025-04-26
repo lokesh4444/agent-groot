@@ -45,6 +45,4 @@ Our chatbot revolutionizes the digital grocery shopping experience by adapting t
 In summary, this intelligent chatbot not only addresses the existing challenges in online grocery shopping but also sets a new standard for customer interaction and service in the digital retail space.
 
 ## Architecture
-<div align="center">
-  ![Image](https://github.com/user-attachments/assets/8ed826be-b50a-41fb-bd3d-fdb0654019b5)
-</div>
+![Image](https://github.com/user-attachments/assets/d94f9704-0c63-41c2-9fb8-5649227a40bb)
