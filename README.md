@@ -90,5 +90,10 @@ This diagram illustrates the interactions between the different agents within th
    - **Functionality:** Provides users with past invoice information upon request.
 
 ---
-
+---
+## Team Members
+- Ishan Mukherjee
+- Dhritiman Pal
+- Sarbo Mitra
+- Lokesh Das
 
