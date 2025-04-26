@@ -65,5 +65,30 @@ It has been designed to harness the power of advanced AI services and developmen
 ![Image](https://github.com/user-attachments/assets/ad11d46d-0bfe-44d9-be0b-76b1e0bc43a6)
 </div>
 
+## Agent Descriptions 🧩
+
+This diagram illustrates the interactions between the different agents within the system. Each agent has a specific role and set of functionalities designed to enhance the user's experience:
+
+1. **Router Agent (GROOT) 🌐:**
+   - **Role:** Directs inquiries to the appropriate specialist agent.
+   - **Functionality:** Analyzes queries for keywords related to product information, billing, or orders.
+
+2. **Product Agent 📦:**
+   - **Role:** Provides detailed product information.
+   - **Functionality:** Uses the ProductSearch Plugin to verify and deliver accurate product details.
+
+3. **Order Agent 🛒:**
+   - **Role:** Processes product-related requests and generates invoices.
+   - **Functionality:** Identifies product details, verifies information, calculates totals, and formats invoices.
+
+4. **Query Agent 🔍:**
+   - **Role:** Manages SQL database interactions.
+   - **Functionality:** Inserts invoice data and checks for duplicates.
+
+5. **Invoice Agent 🧾:**
+   - **Role:** Retrieves previous order invoice details.
+   - **Functionality:** Provides users with past invoice information upon request.
+
+---
 
 
