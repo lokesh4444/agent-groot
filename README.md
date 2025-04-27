@@ -94,8 +94,8 @@ This diagram illustrates the interactions between the different agents within th
    - https://github.com/eragornmitra/mm_retail_ai_chatbot_multi-modal
 ---
 ## Team Members
-- Ishan Mukherjee
-- Dhritiman Pal
-- Sarbo Mitra
-- Lokesh Das
+- [Ishan Mukherjee](https://www.linkedin.com/in/ishan-mukherjee-385b1343?originalSubdomain=in)
+- [Dhritiman Pal](https://www.linkedin.com/in/dhritimanpal?originalSubdomain=in)
+- [Sarbo Mitra](https://www.linkedin.com/in/sarbo-mitra-50338a212?originalSubdomain=in)
+- [Lokesh Das](https://www.linkedin.com/in/lokesh-chandra-das-670352193?originalSubdomain=in)
 
