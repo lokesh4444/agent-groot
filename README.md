@@ -64,11 +64,6 @@ In summary, this intelligent chatbot not only addresses the existing challenges 
 This architecture represents a Semantic Kernel Multi-Agent system, integrating various components and services to enhance user interaction and processing capabilities. It leverages advanced technologies to create a robust, adaptive system for superior user experiences.
 It has been designed to harness the power of advanced AI services and development tools, ensuring seamless interactions across multiple channels. With provisions for human oversight and comprehensive monitoring, it offers a responsive, resilient, and adaptable system that meets evolving user needs and technological advancements.
 
-<div align="center">
-
-# Prompt Flow
-![Image](https://github.com/user-attachments/assets/ad11d46d-0bfe-44d9-be0b-76b1e0bc43a6)
-</div>
 
 ## Agent Descriptions 🧩
 
@@ -94,7 +89,14 @@ This diagram illustrates the interactions between the different agents within th
    - **Role:** Retrieves previous order invoice details.
    - **Functionality:** Provides users with past invoice information upon request.
 
+<div align="center">
+
+![Image](https://github.com/user-attachments/assets/ad11d46d-0bfe-44d9-be0b-76b1e0bc43a6)
+**Prompt Flow**
+</div>
+
 ---
+
 ## Code Repository
    - https://github.com/eragornmitra/mm_retail_ai_chatbot_multi-modal
 ---
