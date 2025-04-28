@@ -15,15 +15,20 @@ The landscape of online grocery shopping is fraught with challenges such as navi
 To address these challenges, we have developed an intelligent, multimodal chatbot that seamlessly integrates with a retailer’s live inventory system. This innovative solution allows customers to place orders using natural voice, text, or image inputs, providing a dynamic and intuitive shopping experience.
 
 ### Key Features
-- **Advanced Natural Language Understanding (NLU):** Intelligently interprets ambiguous inputs, prompting users for clarification when necessary.
+- **Advanced Natural Language Understanding (NLU):** Intelligently interprets ambiguous inputs, prompting users for clarification when necessary. Accepts both text and speech as inputs. Supports multiple languages.
+- **Image Recognition and OCR:** Can identify products based on the image and search for that product. Can extract text from the image of a handwritten note to search for products.
+- **Catalog Browsing:** Uses AI Search capabilities to search for the exact product or a similar product in the catalog.
+- **Invoice Generation:** Can generate an invoice automatically in form of a PDF that can be downloaded.
+- **Order Details Retrieval:** Generates dynamic SQL Queries to search for previous orders in the order database. 
 - **Error Correction:** Adapts to real-world user behavior, leveraging cognitive capabilities of large language models (LLMs) like OpenAI's GPT-4 and GPT-4o.
-- **Order Tracking and Post-Sale Services:** Ensures comprehensive user experience with efficient handling of product discovery, inventory validation, and guided ordering in real time.
+- **Order Placing and Post-Sale Services:** Ensures comprehensive user experience with efficient handling of product discovery, inventory validation, and guided ordering in real time.
 
 ## Technology and Tools 🛠️
 
 - **Semantic Kernel:** Enhances the chatbot's ability to interpret and respond accurately by processing semantic context.
-- **OpenAI GPT-4 and GPT-4o Models:** Enable human-like responses, improving interaction quality and user satisfaction.
-- **Azure AI Search:** Optimizes product search capabilities, ensuring relevant and accurate search results.
+- **OpenAI GPT-4, GPT-4o and Whisper Models:** Enable human-like responses, improving interaction quality and user satisfaction.
+- **Azure AI Search:** Optimizes product search capabilities, ensuring renlevant and accurate search results.
+- **MCP Server:** Utilizes a Model Context Protocol server to integrate .NET functions with Python code.
 - **SQL Database:** Manages data integration with the retailer's inventory system, maintaining up-to-date product availability information.
 - **Chain Lit:** Framework for frontend development, providing a user-friendly interface supporting multimodal interactions.
 - **Literal API:** Ensures chat data persistence, securely storing user interactions for future reference or analysis.
@@ -83,7 +88,7 @@ This diagram illustrates the interactions between the different agents within th
 
 4. **Query Agent 🔍:**
    - **Role:** Manages SQL database interactions.
-   - **Functionality:** Inserts invoice data and checks for duplicates.
+   - **Functionality:** Inserts invoice data and checks for duplicates.Also generates the pdf of the invoice using MCP functions
 
 5. **Invoice Agent 🧾:**
    - **Role:** Retrieves previous order invoice details.
