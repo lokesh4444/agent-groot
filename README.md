@@ -15,6 +15,9 @@ The landscape of online grocery shopping is fraught with challenges such as navi
 To address these challenges, we have developed an intelligent, multimodal chatbot that seamlessly integrates with a retailer’s live inventory system. This innovative solution allows customers to place orders using natural voice, text, or image inputs, providing a dynamic and intuitive shopping experience.
 
 ### Key Features
+<div>
+   ![Image](https://github.com/user-attachments/assets/4929472a-dec1-431c-8608-7cbcad92764c)
+</div>
 - **Advanced Natural Language Understanding (NLU):** Intelligently interprets ambiguous inputs, prompting users for clarification when necessary. Accepts both text and speech as inputs. Supports multiple languages.
 - **Image Recognition and OCR:** Can identify products based on the image and search for that product. Can extract text from the image of a handwritten note to search for products.
 - **Catalog Browsing:** Uses AI Search capabilities to search for the exact product or a similar product in the catalog.
