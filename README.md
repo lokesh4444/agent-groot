@@ -94,7 +94,7 @@ This diagram illustrates the interactions between the different agents within th
 
 <div align="center">
 
-![Image](https://github.com/user-attachments/assets/ad11d46d-0bfe-44d9-be0b-76b1e0bc43a6)
+![Image](https://github.com/user-attachments/assets/16750d75-7463-4553-a9f9-5a2e019a5ea1)
 **Prompt Flow**
 </div>
 
