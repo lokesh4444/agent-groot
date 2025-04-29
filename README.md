@@ -58,7 +58,7 @@ Our chatbot revolutionizes the digital grocery shopping experience by adapting t
 <div align="center">
 
 # 🧠 Semantic Kernel Multi-Agent Architecture
-![Image](https://github.com/user-attachments/assets/d94f9704-0c63-41c2-9fb8-5649227a40bb)
+![Image](https://github.com/user-attachments/assets/42c70c24-ee07-425f-81d5-0654cfe5c335)
 
 </div>
 
