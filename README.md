@@ -98,8 +98,13 @@ This diagram illustrates the interactions between the different agents within th
 **Prompt Flow**
 </div>
 
----
 ## Demo Video 
+
+<div align="center">
+
+[![Alt text](https://img.youtube.com/vi/r6jJSbqAdy0/0.jpg)](https://www.youtube.com/watch?v=r6jJSbqAdy0)
+</div>
+
 ## Code Repository
    - https://github.com/eragornmitra/mm_retail_ai_chatbot_multi-modal
 ---
