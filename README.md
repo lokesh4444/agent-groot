@@ -14,7 +14,7 @@ The landscape of online grocery shopping is fraught with challenges such as navi
 
 To address these challenges, we have developed an intelligent, multimodal chatbot that seamlessly integrates with a retailer’s live inventory system. This innovative solution allows customers to place orders using natural voice, text, or image inputs, providing a dynamic and intuitive shopping experience.
 
-## Key Features
+## Key Features 📋
 
 <div align=center>
    
@@ -98,17 +98,17 @@ This diagram illustrates the interactions between the different agents within th
 **Prompt Flow**
 </div>
 
-## Demo Video 
+## Demo Video 🎥
 
 <div align="center">
 
 [![Alt text](https://img.youtube.com/vi/r6jJSbqAdy0/0.jpg)](https://www.youtube.com/watch?v=r6jJSbqAdy0)
 </div>
 
-## Code Repository
+## Code Repository 💻
    - https://github.com/eragornmitra/mm_retail_ai_chatbot_multi-modal
 ---
-## Team Members
+## Team Members 👥👥
 - [Ishan Mukherjee](https://www.linkedin.com/in/ishan-mukherjee-385b1343?originalSubdomain=in)
 - [Dhritiman Pal](https://www.linkedin.com/in/dhritimanpal?originalSubdomain=in)
 - [Sarbo Mitra](https://www.linkedin.com/in/sarbo-mitra-50338a212?originalSubdomain=in)
